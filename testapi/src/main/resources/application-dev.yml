@@ -1,0 +1,7 @@
+server:
+   port: 8775
+
+spring:
+   application:
+      name: test-api
+   profiles: dev
